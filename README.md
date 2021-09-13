@@ -28,7 +28,7 @@ Tecnologias usadas
 **Clone o projeto e acesse a pasta**
 
 ```bash
-$ git clone https://github.com/charleseduardome/TheMovieDB.git
+$ git clone https://github.com/Danylo93/promobit-reactjs.git
 ```
 
 **Siga os passos abaixo**
@@ -41,7 +41,7 @@ $ yarn
 $ cp .env.example .env
 
 # Verifique se o arquivo .env possui a variável REACT_APP_API_URL com a url da API
-# Insira sua Key na variável REACT_APP_API_KEY
+# Inserir Key na variável REACT_APP_API_KEY
 # Caso deseje alterar o tamanho da imagem, altera o valor da  variável REACT_APP_BASE_URL_IMAGEM
 
 # Start
@@ -52,6 +52,3 @@ $ yarn start
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Made with 💜 by Charles Eduardo 👋 [See my linkedin](https://www.linkedin.com/in/charleseduardome//)
